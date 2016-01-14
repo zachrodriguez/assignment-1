@@ -93,7 +93,7 @@ Now, it's time to turn in your assignment.  You should generally follow the [ins
 
 1. Fork and clone the [Assignment 1 repository](https://github.com/biolprogramming/test-assignment-1) to your computer
 1. Open that repository in [Github Desktop](https://desktop.github.com/)
-1. Create a directory **in the cloned, forked assignment repository** that is your **username on github**
+1. Create a directory, nested in the **answers** directory **in the cloned, forked assignment repository** that is your **username on github**
 1. Navigate to this directory on your computer
 1. Add the following:
     * Screenshot of [github][] account
