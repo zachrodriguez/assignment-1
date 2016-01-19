@@ -67,4 +67,4 @@ Glaucia Del-Rio|Zac Carver|Jessie Salter
 
     ![step11](images/step11.png)
 
-* You are finished.
+* You are finished.  Proceed to your 2nd code review.
