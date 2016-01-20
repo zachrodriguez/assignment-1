@@ -59,12 +59,4 @@ Glaucia Del-Rio|Zac Carver|Jessie Salter
 
     ![step9](images/step9.png)
 
-* Tally up the score for the code you are grading based on the number of boxes you have checked (`correct`) versus the number of boxes that you have not (`incorrect`). Enter this score in a 2nd comment box.
-
-    ![step10](images/step10.png)
-
-* Click the `Comment on this commit` to render the score you assigned as formatted text.
-
-    ![step11](images/step11.png)
-
 * You are finished.  Proceed to your 2nd code review.
